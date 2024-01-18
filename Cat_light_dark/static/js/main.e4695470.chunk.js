@@ -1,0 +1,2 @@
+(this["webpackJsonplight-dark-mode"]=this["webpackJsonplight-dark-mode"]||[]).push([[0],{11:function(t,n,e){"use strict";e.r(n);var c=e(1),o=e.n(c),r=e(3),i=e.n(r),s=e(4),d=e.n(s),a=(e(9),e(0)),u=function(){return Object(a.jsx)(d.a,{})};i.a.render(Object(a.jsx)(o.a.StrictMode,{children:Object(a.jsx)(u,{})}),document.getElementById("root"))},4:function(t,n){},9:function(t,n,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.e4695470.chunk.js.map
